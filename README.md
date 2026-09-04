@@ -125,7 +125,7 @@ Compares employee attrition across genders.
 
 7. Attrition Rate by Age Group
 Analyzes attrition across different age groups.
----
+
 
 ## 💡 Key Insights
 
@@ -140,7 +140,7 @@ Age groups with higher attrition rates
 The relationship between job satisfaction, work-life balance and attrition
 
 These insights can help organizations identify employee groups that may require greater attention from HR teams.
----
+
 
 ## 📂 Project Structure
 
@@ -153,7 +153,7 @@ Employee-Attrition-Analysis-SQL-PowerBI/
 ├── 🖼️ dashboard.png
 └── 📖 README.md
 ```
----
+
 
 ## 🧠 Skills Demonstrated
 SQL
@@ -168,14 +168,14 @@ DAX
 KPI Creation
 Business Analytics
 HR Analytics
----
+
 
 ## 🚀 Conclusion
 
 This project demonstrates the complete process of transforming employee data into meaningful business insights.
 MySQL was used for data cleaning, validation and analysis, while Power BI was used to create an interactive dashboard for visualizing employee attrition patterns.
 The project helped identify how factors such as job role, overtime, income, age, tenure, department, satisfaction and work-life balance can be analyzed to better understand employee attrition.
----
+
 
 ## 👩‍💻 Author
 
