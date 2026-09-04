@@ -32,7 +32,7 @@ The main objectives of this project are:
 - **Power BI** – Interactive dashboard and visualization
 - **SQL** – Data analysis and business queries
 - **DAX** – Power BI calculations
-- **CSV/Excel** – Employee dataset
+- **Excel** – Employee dataset
 
 ---
 
