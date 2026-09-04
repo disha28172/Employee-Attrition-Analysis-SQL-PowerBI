@@ -52,7 +52,7 @@ Interactive Dashboard
        ↓
 Employee Attrition Insights
 ```
-
+---
 ## 🧹 Data Cleaning & Validation
 
 Before performing the analysis, the dataset was checked for data quality issues.
@@ -66,6 +66,7 @@ Categorical consistency
 Logical consistency
 
 Missing values were checked across important employee attributes
+---
 
 ## 🔍 SQL Analysis
 
@@ -82,6 +83,7 @@ Questions Analyzed
 8. Is overtime-driven attrition concentrated in specific departments?
 9. Which job role + overtime combination has the highest attrition risk?
 10. Does job satisfaction and work-life balance relate to attrition?
+---
 
 ## 📊 Power BI Dashboard
 
@@ -94,6 +96,7 @@ Attrition Count	237
 Attrition Rate	16.12%
 Average Years at Company	7.01
 Average Monthly Income	6.50K
+---
 
 ## 📈 Dashboard Visualizations
 
@@ -122,6 +125,7 @@ Compares employee attrition across genders.
 
 7. Attrition Rate by Age Group
 Analyzes attrition across different age groups.
+---
 
 ## 💡 Key Insights
 
@@ -136,6 +140,7 @@ Age groups with higher attrition rates
 The relationship between job satisfaction, work-life balance and attrition
 
 These insights can help organizations identify employee groups that may require greater attention from HR teams.
+---
 
 ## 📂 Project Structure
 
@@ -148,6 +153,7 @@ Employee-Attrition-Analysis-SQL-PowerBI/
 ├── 🖼️ dashboard.png
 └── 📖 README.md
 ```
+---
 
 ## 🧠 Skills Demonstrated
 SQL
@@ -162,16 +168,18 @@ DAX
 KPI Creation
 Business Analytics
 HR Analytics
+---
 
 ## 🚀 Conclusion
 
 This project demonstrates the complete process of transforming employee data into meaningful business insights.
 MySQL was used for data cleaning, validation and analysis, while Power BI was used to create an interactive dashboard for visualizing employee attrition patterns.
 The project helped identify how factors such as job role, overtime, income, age, tenure, department, satisfaction and work-life balance can be analyzed to better understand employee attrition.
+---
 
 ## 👩‍💻 Author
 
 Disha Singh
-
+---
 
 ⭐ If you found this project useful, feel free to explore the SQL queries and Power BI dashboard.
