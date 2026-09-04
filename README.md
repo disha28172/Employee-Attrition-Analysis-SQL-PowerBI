@@ -88,7 +88,8 @@ Questions Analyzed
 ## 📊 Power BI Dashboard
 
 The SQL analysis was transformed into an interactive Employee Attrition Insights Dashboard using Power BI.
-![Employee Attrition Dashboard](Dashboard.png)
+<img width="866" height="488" alt="Dashboard" src="https://github.com/user-attachments/assets/ff60c0d0-994a-445d-af89-0ec1356a4ced" />
+
 
 Key Metrics
 
