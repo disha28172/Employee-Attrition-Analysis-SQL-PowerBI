@@ -37,7 +37,7 @@ The main objectives of this project are:
 ---
 
 ## 🔄 Project Workflow
-
+```text
 Employee Dataset
        ↓
 MySQL Workbench
@@ -51,7 +51,7 @@ Power BI
 Interactive Dashboard
        ↓
 Employee Attrition Insights
-
+```
 
 ## 🧹 Data Cleaning & Validation
 
@@ -138,13 +138,16 @@ The relationship between job satisfaction, work-life balance and attrition
 These insights can help organizations identify employee groups that may require greater attention from HR teams.
 
 ## 📂 Project Structure
-Employee-Attrition-Analysis/
+
+```text
+Employee-Attrition-Analysis-SQL-PowerBI/
 │
-├── SQL_operations.sql
-├── Employee_Attrition_Dashboard.pbix
-├── employee_dataset.csv
-├── dashboard.png
-└── README.md
+├── 📄 SQL_operations.sql
+├── 📊 Employee_Attrition_Dashboard.pbix
+├── 📁 employee_dataset.csv
+├── 🖼️ dashboard.png
+└── 📖 README.md
+```
 
 ## 🧠 Skills Demonstrated
 SQL
