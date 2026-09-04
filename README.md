@@ -66,7 +66,7 @@ Categorical consistency
 Logical consistency
 
 Missing values were checked across important employee attributes
----
+
 
 ## 🔍 SQL Analysis
 
@@ -96,7 +96,7 @@ Attrition Count	237
 Attrition Rate	16.12%
 Average Years at Company	7.01
 Average Monthly Income	6.50K
----
+
 
 ## 📈 Dashboard Visualizations
 
