@@ -180,6 +180,6 @@ The project helped identify how factors such as job role, overtime, income, age,
 ## 👩‍💻 Author
 
 Disha Singh
----
+
 
 ⭐ If you found this project useful, feel free to explore the SQL queries and Power BI dashboard.
