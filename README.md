@@ -88,14 +88,15 @@ Questions Analyzed
 ## 📊 Power BI Dashboard
 
 The SQL analysis was transformed into an interactive Employee Attrition Insights Dashboard using Power BI.
+![Employee Attrition Dashboard](dashboard.png)
 
 Key Metrics
-KPI	Value
-Total Employees	1,470
-Attrition Count	237
-Attrition Rate	16.12%
-Average Years at Company	7.01
-Average Monthly Income	6.50K
+
+1. Total Employees	1,470
+2. Attrition Count	237
+3. Attrition Rate	16.12%
+4. Average Years at Company	7.01
+5. Average Monthly Income	6.50K
 
 
 ## 📈 Dashboard Visualizations
