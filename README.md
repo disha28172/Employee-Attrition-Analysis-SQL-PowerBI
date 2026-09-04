@@ -72,16 +72,16 @@ Missing values were checked across important employee attributes
 SQL queries were created to answer important business questions related to employee attrition.
 
 Questions Analyzed
-What is the overall employee attrition rate?
-Which department has the highest attrition rate?
-Which job role has the highest attrition rate?
-Does working overtime affect attrition?
-Which age group is most likely to leave?
-Does tenure affect employee attrition?
-Does income level affect attrition?
-Is overtime-driven attrition concentrated in specific departments?
-Which job role + overtime combination has the highest attrition risk?
-Does job satisfaction and work-life balance relate to attrition?
+1. What is the overall employee attrition rate?
+2. Which department has the highest attrition rate?
+3. Which job role has the highest attrition rate?
+4. Does working overtime affect attrition?
+5. Which age group is most likely to leave?
+6. Does tenure affect employee attrition?
+7. Does income level affect attrition?
+8. Is overtime-driven attrition concentrated in specific departments?
+9. Which job role + overtime combination has the highest attrition risk?
+10. Does job satisfaction and work-life balance relate to attrition?
 
 ## 📊 Power BI Dashboard
 
