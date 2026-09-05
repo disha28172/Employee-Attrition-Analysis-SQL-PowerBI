@@ -149,10 +149,15 @@ These insights can help organizations identify employee groups that may require 
 ```text
 Employee-Attrition-Analysis-SQL-PowerBI/
 │
-├── 📄 SQL_operations.sql
-├── 📊 Employee_Attrition_Dashboard.pbix
-├── 📁 employee_dataset.csv
-├── 🖼️ dashboard.png
+├──SQL
+│    └── 📄 SQL_operations.sql
+├──Power BI
+│     └──  📊 Employee_Attrition_Dashboard.pbix
+├── Data
+│      └── 📁 employee_dataset.csv
+├── Images
+│       ├── SQL queries
+│       └── 🖼️ dashboard.png
 └── 📖 README.md
 ```
 
